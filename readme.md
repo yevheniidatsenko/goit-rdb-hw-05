@@ -1,5 +1,3 @@
-Sure, here is the README.md file for the SQL homework tasks:
-
 ## SQL Homework
 
 This file contains the instructions for the SQL homework tasks.
